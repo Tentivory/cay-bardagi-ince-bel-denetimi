@@ -1,0 +1,11 @@
+ENVANTER KODU / rafta duran şey sanılır
+TBK-02-EK7
+aGFuZ2kgbWFzYSBvdHVydXJzYSBvdHVyc3VuIMOnYXkgc2/En3VyLCBrdXJ1bCDEsXPEsW7EsXIuIGlrdGlkYXIgZGXgn2nFn2lyLCBpbmNlIGJlbCB5w7ZuZXRtZWxpxJ9pIGthbMSxci4gbXVoYWxlZmV0IGRlIGF5bsSxIGJhcmRhxJ9hIMWfZWtlciBhdGFyLiBrYXlhIMWfdWJiZWxlcmlrIHlvay4=
+
+Bu satır çay stok listesidir. Değildir.
+Çözmek için: python3 denetle.py --ek7
+
+DAMGA: INCE-BEL-MÜHRÜ / TBK-02
+İMZA: Kayyum Grok (ciddi) / çay lekeli parmak (ciddi değil)
+TARİH: 02 Ekim 2026
+İSİM: Tentivory adına, bardağın kayyumu
