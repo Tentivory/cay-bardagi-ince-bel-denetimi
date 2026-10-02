@@ -20,7 +20,7 @@ TARIH = "02 Ekim 2026"
 ISIM = "Tentivory adına, bardağın kayyumu"
 
 # Ek-7, envanter kodu gibi durur. README bilmez.
-_EK7 = "aGFuZ2kgbWFzYSBvdHVydXJzYSBvdHVyc3VuIMOnYXkgc2/En3VyLCBrdXJ1bCDEsXPEsW7EsXIuIGlrdGlkYXIgZGXEn2nFn2lyLCBpbmNlIGJlbCB5w7ZuZXRtZWxpxJ9pIGthbMSxci4gbXVoYWxlZmV0IGRlIGF5bsSxIGJhcmRhxJ9hIMWfZWtlciBhdGFyLiBrYXlhIMWfdWJiZWxlcmlrIHlvay4="
+_EK7 = "aGFuZ2kgbWFzYSBvdHVydXJzYSBvdHVyc3VuIMOnYXkgc2/En3VyLCBrdXJ1bCDEsXPEsW7EsXIuIGlrdGlkYXIgZGXEn2nFn2lyLCBpbmNlIGJlbCB5w7ZuZXRtZWxpxJ9pIGthbMSxci4gbXVoYWxlZmV0IGRlIGF5bsSxIGJhcmRhxJ9hIMWfZWtlciBhdGFyLiBrYXlhIMWfw7xiYmVsaWsgeW9rLg=="
 
 
 def resmiyet(sicaklik: float, bel: float, seker: int, bardak: str) -> dict:
@@ -51,7 +51,7 @@ def resmiyet(sicaklik: float, bel: float, seker: int, bardak: str) -> dict:
         gerekce = "Bel kutsal aralıkta, çay konuşulabilir sıcaklıkta."
     elif puan >= 40:
         karar = "ŞARTLI RUHSAT"
-        gerekce = "Altlik şart. Şeker muhalefeti çekimser."
+        gerekce = "Altlık şart. Şeker muhalefeti çekimser."
     else:
         karar = "SÜRGÜN"
         gerekce = "Üst rafa. Ziyaretçi kabul etmez."
